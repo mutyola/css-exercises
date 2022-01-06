@@ -14,3 +14,7 @@
 .flex-container .two {
   flex: 2 1 0%;
 }
+
+.flex-container .three {
+  flex-shrink: 0;
+  }
