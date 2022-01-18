@@ -37,7 +37,7 @@
 }
 .flex-container3 {
   display: flex;
-  /* flex-direction: column; */
+   flex-direction: column; 
 }
 
 /* this selector selects all divs inside of .flex-container */
